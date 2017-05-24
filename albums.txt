@@ -1,0 +1,804 @@
+{
+   "songs":[
+      {
+         "title":"21",
+         "artist":"Adele"
+      },
+      {
+         "title":"The Sound Of Music",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Thriller",
+         "artist":"Michael Jackson"
+      },
+      {
+         "title":"Fearless",
+         "artist":"Taylor Swift"
+      },
+      {
+         "title":"Born In The U.S.A.",
+         "artist":"Bruce Springsteen"
+      },
+      {
+         "title":"Ropin' The Wind",
+         "artist":"Garth Brooks"
+      },
+      {
+         "title":"Jagged Little Pill",
+         "artist":"Alanis Morissette"
+      },
+      {
+         "title":"Doctor Zhivago",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"All The Right Reasons",
+         "artist":"Nickelback"
+      },
+      {
+         "title":"Tapestry",
+         "artist":"Carole King"
+      },
+      {
+         "title":"Whitney Houston",
+         "artist":"Whitney Houston"
+      },
+      {
+         "title":"The Fame",
+         "artist":"Lady Gaga"
+      },
+      {
+         "title":"Whipped Cream & Other Delights",
+         "artist":"Herb Alpert's Tijuana Brass"
+      },
+      {
+         "title":"Come On Over",
+         "artist":"Shania Twain"
+      },
+      {
+         "title":"Rumours",
+         "artist":"Fleetwood Mac"
+      },
+      {
+         "title":"Confessions",
+         "artist":"Usher"
+      },
+      {
+         "title":"Frozen",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Taylor Swift",
+         "artist":"Taylor Swift"
+      },
+      {
+         "title":"Forever Your Girl",
+         "artist":"Paula Abdul"
+      },
+      {
+         "title":"Some Gave All",
+         "artist":"Billy Ray Cyrus"
+      },
+      {
+         "title":"Falling Into You",
+         "artist":"Celine Dion"
+      },
+      {
+         "title":"Some Hearts",
+         "artist":"Carrie Underwood"
+      },
+      {
+         "title":"The Bodyguard",
+         "artist":"Whitney Houston"
+      },
+      {
+         "title":"Please Hammer Don't Hurt 'Em",
+         "artist":"M.C. Hammer"
+      },
+      {
+         "title":"Hysteria",
+         "artist":"Def Leppard"
+      },
+      {
+         "title":"Come Away With Me",
+         "artist":"Norah Jones"
+      },
+      {
+         "title":"Daughtry",
+         "artist":"Daughtry"
+      },
+      {
+         "title":"[Hybrid Theory]",
+         "artist":"Linkin Park"
+      },
+      {
+         "title":"No Fences",
+         "artist":"Garth Brooks"
+      },
+      {
+         "title":"Cracked Rear View",
+         "artist":"Hootie & The Blowfish"
+      },
+      {
+         "title":"The Dark Side Of The Moon",
+         "artist":"Pink Floyd"
+      },
+      {
+         "title":"Fallen",
+         "artist":"Evanescence"
+      },
+      {
+         "title":"Slippery When Wet",
+         "artist":"Bon Jovi"
+      },
+      {
+         "title":"Human Clay",
+         "artist":"Creed"
+      },
+      {
+         "title":"Mary Poppins",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Supernatural",
+         "artist":"Santana"
+      },
+      {
+         "title":"Night Visions",
+         "artist":"Imagine Dragons"
+      },
+      {
+         "title":"Frampton Comes Alive",
+         "artist":"Peter Frampton"
+      },
+      {
+         "title":"Goodbye Yellow Brick Road",
+         "artist":"Elton John"
+      },
+      {
+         "title":"Metallica",
+         "artist":"Metallica"
+      },
+      {
+         "title":"...Baby One More Time",
+         "artist":"Britney Spears"
+      },
+      {
+         "title":"Backstreet Boys",
+         "artist":"Backstreet Boys"
+      },
+      {
+         "title":"Saturday Night Fever",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Going Places",
+         "artist":"Herb Alpert & The Tijuana Brass"
+      },
+      {
+         "title":"Ten",
+         "artist":"Pearl Jam"
+      },
+      {
+         "title":"4",
+         "artist":"Foreigner"
+      },
+      {
+         "title":"Escape",
+         "artist":"Journey"
+      },
+      {
+         "title":"Can't Slow Down",
+         "artist":"Lionel Richie"
+      },
+      {
+         "title":"Spice",
+         "artist":"Spice Girls"
+      },
+      {
+         "title":"Mariah Carey",
+         "artist":"Mariah Carey"
+      },
+      {
+         "title":"High School Musical",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"The Emancipation Of Mimi",
+         "artist":"Mariah Carey"
+      },
+      {
+         "title":"Blood, Sweat & Tears",
+         "artist":"Blood, Sweat & Tears"
+      },
+      {
+         "title":"Sgt. Pepper's Lonely Hearts Club Band",
+         "artist":"The Beatles"
+      },
+      {
+         "title":"Unorthodox Jukebox",
+         "artist":"Bruno Mars"
+      },
+      {
+         "title":"The Eminem Show",
+         "artist":"Eminem"
+      },
+      {
+         "title":"Time, Love And Tenderness",
+         "artist":"Michael Bolton"
+      },
+      {
+         "title":"Let Go",
+         "artist":"Avril Lavigne"
+      },
+      {
+         "title":"Jesus Christ Superstar",
+         "artist":"Various Artists"
+      },
+      {
+         "title":"Dirty Dancing",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"II",
+         "artist":"Boyz II Men"
+      },
+      {
+         "title":"In-A-Gadda-Da-Vida",
+         "artist":"Iron Butterfly"
+      },
+      {
+         "title":"Rock N Roll Jesus",
+         "artist":"Kid Rock"
+      },
+      {
+         "title":"1989",
+         "artist":"Taylor Swift"
+      },
+      {
+         "title":"Appetite For Destruction",
+         "artist":"Guns N' Roses"
+      },
+      {
+         "title":"Hi Infidelity",
+         "artist":"REO Speedwagon"
+      },
+      {
+         "title":"Tragic Kingdom",
+         "artist":"No Doubt"
+      },
+      {
+         "title":"Need You Now",
+         "artist":"Lady Antebellum"
+      },
+      {
+         "title":"Breakfast In America",
+         "artist":"Supertramp"
+      },
+      {
+         "title":"Millennium",
+         "artist":"Backstreet Boys"
+      },
+      {
+         "title":"Hannah Montana 2 (Soundtrack)/Meet Miley Cyrus",
+         "artist":"Miley Cyrus"
+      },
+      {
+         "title":"Control",
+         "artist":"Janet Jackson"
+      },
+      {
+         "title":"American Idiot",
+         "artist":"Green Day"
+      },
+      {
+         "title":"Fleetwood Mac",
+         "artist":"Fleetwood Mac"
+      },
+      {
+         "title":"Girl You Know It's True",
+         "artist":"Milli Vanilli"
+      },
+      {
+         "title":"Here's To The Good Times",
+         "artist":"Florida Georgia Line"
+      },
+      {
+         "title":"Breakaway",
+         "artist":"Kelly Clarkson"
+      },
+      {
+         "title":"My World 2.0",
+         "artist":"Justin Bieber"
+      },
+      {
+         "title":"Unplugged",
+         "artist":"Eric Clapton"
+      },
+      {
+         "title":"The Lion King",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Faith",
+         "artist":"George Michael"
+      },
+      {
+         "title":"Don't Be Cruel",
+         "artist":"Bobby Brown"
+      },
+      {
+         "title":"Hotshot",
+         "artist":"Shaggy"
+      },
+      {
+         "title":"Wilson Phillips",
+         "artist":"Wilson Phillips"
+      },
+      {
+         "title":"Country Grammar",
+         "artist":"Nelly"
+      },
+      {
+         "title":"John Denver's Greatest Hits",
+         "artist":"John Denver"
+      },
+      {
+         "title":"Music Box",
+         "artist":"Mariah Carey"
+      },
+      {
+         "title":"Hangin' Tough",
+         "artist":"New Kids On The Block"
+      },
+      {
+         "title":"Chicago II",
+         "artist":"Chicago"
+      },
+      {
+         "title":"Hello, Dolly!",
+         "artist":"Original Cast"
+      },
+      {
+         "title":"The Sign",
+         "artist":"Ace Of Base"
+      },
+      {
+         "title":"The Wall",
+         "artist":"Pink Floyd"
+      },
+      {
+         "title":"Recovery",
+         "artist":"Eminem"
+      },
+      {
+         "title":"Janet Jackson's Rhythm Nation 1814",
+         "artist":"Janet Jackson"
+      },
+      {
+         "title":"Asia",
+         "artist":"Asia"
+      },
+      {
+         "title":"The E.N.D.",
+         "artist":"The Black Eyed Peas"
+      },
+      {
+         "title":"FutureSex/LoveSounds",
+         "artist":"Justin Timberlake"
+      },
+      {
+         "title":"Brothers In Arms",
+         "artist":"Dire Straits"
+      },
+      {
+         "title":"In The Lonely Hour",
+         "artist":"Sam Smith"
+      },
+      {
+         "title":"The Dutchess",
+         "artist":"Fergie"
+      },
+      {
+         "title":"O Brother, Where Art Thou?",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Business As Usual",
+         "artist":"Men At Work"
+      },
+      {
+         "title":"The Graduate",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Me And My Gang",
+         "artist":"Rascal Flatts"
+      },
+      {
+         "title":"A Hard Day's Night (Soundtrack)",
+         "artist":"The Beatles"
+      },
+      {
+         "title":"Sigh No More",
+         "artist":"Mumford & Sons"
+      },
+      {
+         "title":"Songs In A Minor",
+         "artist":"Alicia Keys"
+      },
+      {
+         "title":"Heart",
+         "artist":"Heart"
+      },
+      {
+         "title":"Crash My Party",
+         "artist":"Luke Bryan"
+      },
+      {
+         "title":"Purple Rain (Soundtrack)",
+         "artist":"Prince And The Revolution"
+      },
+      {
+         "title":"No Strings Attached",
+         "artist":"N Sync"
+      },
+      {
+         "title":"Speakerboxxx/The Love Below",
+         "artist":"OutKast"
+      },
+      {
+         "title":"x",
+         "artist":"Ed Sheeran"
+      },
+      {
+         "title":"Abraxas",
+         "artist":"Santana"
+      },
+      {
+         "title":"Songs In The Key Of Life",
+         "artist":"Stevie Wonder"
+      },
+      {
+         "title":"Babel",
+         "artist":"Mumford & Sons"
+      },
+      {
+         "title":"Breathless",
+         "artist":"Kenny G"
+      },
+      {
+         "title":"Nevermind",
+         "artist":"Nirvana"
+      },
+      {
+         "title":"janet.",
+         "artist":"Janet Jackson"
+      },
+      {
+         "title":"Band On The Run",
+         "artist":"Paul McCartney And Wings"
+      },
+      {
+         "title":"Are You Experienced?",
+         "artist":"Jimi Hendrix"
+      },
+      {
+         "title":"Sports",
+         "artist":"Huey Lewis & The News"
+      },
+      {
+         "title":"Hair",
+         "artist":"Original Cast Recording"
+      },
+      {
+         "title":"Synchronicity",
+         "artist":"The Police"
+      },
+      {
+         "title":"Pieces Of You",
+         "artist":"Jewel"
+      },
+      {
+         "title":"CrazySexyCool",
+         "artist":"TLC"
+      },
+      {
+         "title":"The Joshua Tree",
+         "artist":"U2"
+      },
+      {
+         "title":"As I Am",
+         "artist":"Alicia Keys"
+      },
+      {
+         "title":"Cooleyhighharmony",
+         "artist":"Boyz II Men"
+      },
+      {
+         "title":"No Jacket Required",
+         "artist":"Phil Collins"
+      },
+      {
+         "title":"1",
+         "artist":"The Beatles"
+      },
+      {
+         "title":"The Monkees",
+         "artist":"The Monkees"
+      },
+      {
+         "title":"Whitesnake",
+         "artist":"Whitesnake"
+      },
+      {
+         "title":"Monkey Business",
+         "artist":"The Black Eyed Peas"
+      },
+      {
+         "title":"Abbey Road",
+         "artist":"The Beatles"
+      },
+      {
+         "title":"My Kinda Party",
+         "artist":"Jason Aldean"
+      },
+      {
+         "title":"N Sync",
+         "artist":"N Sync"
+      },
+      {
+         "title":"Bad",
+         "artist":"Michael Jackson"
+      },
+      {
+         "title":"Get Rich Or Die Tryin'",
+         "artist":"50 Cent"
+      },
+      {
+         "title":"Red",
+         "artist":"Taylor Swift"
+      },
+      {
+         "title":"Home",
+         "artist":"Dixie Chicks"
+      },
+      {
+         "title":"Grease",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Red Octopus",
+         "artist":"Jefferson Starship"
+      },
+      {
+         "title":"American Pie",
+         "artist":"Don McLean"
+      },
+      {
+         "title":"Honky Chateau",
+         "artist":"Elton John"
+      },
+      {
+         "title":"Led Zeppelin II",
+         "artist":"Led Zeppelin"
+      },
+      {
+         "title":"Konvicted",
+         "artist":"Akon"
+      },
+      {
+         "title":"The Long Run",
+         "artist":"Eagles"
+      },
+      {
+         "title":"Off The Wall",
+         "artist":"Michael Jackson"
+      },
+      {
+         "title":"Back To Black",
+         "artist":"Amy Winehouse"
+      },
+      {
+         "title":"American Fool",
+         "artist":"John Cougar"
+      },
+      {
+         "title":"Tha Carter III",
+         "artist":"Lil Wayne"
+      },
+      {
+         "title":"A Day Without Rain",
+         "artist":"Enya"
+      },
+      {
+         "title":"Unforgettable",
+         "artist":"Natalie Cole"
+      },
+      {
+         "title":"One Of These Nights",
+         "artist":"Eagles"
+      },
+      {
+         "title":"More Of The Monkees",
+         "artist":"The Monkees"
+      },
+      {
+         "title":"M!ssundaztood",
+         "artist":"P!nk"
+      },
+      {
+         "title":"Totally Krossed Out",
+         "artist":"Kris Kross"
+      },
+      {
+         "title":"Whitney",
+         "artist":"Whitney Houston"
+      },
+      {
+         "title":"Woodstock",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"That's The Way Of The World",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Silver Side Up",
+         "artist":"Nickelback"
+      },
+      {
+         "title":"Titanic",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Let's Talk About Love",
+         "artist":"Celine Dion"
+      },
+      {
+         "title":"Chicago V",
+         "artist":"Chicago"
+      },
+      {
+         "title":"Funny Girl",
+         "artist":"Barbra Streisand"
+      },
+      {
+         "title":"August & Everything After",
+         "artist":"Counting Crows"
+      },
+      {
+         "title":"Glass Houses",
+         "artist":"Billy Joel"
+      },
+      {
+         "title":"Reckless",
+         "artist":"Bryan Adams"
+      },
+      {
+         "title":"What Now My Love",
+         "artist":"Herb Alpert & The Tijuana Brass"
+      },
+      {
+         "title":"Diana Ross And The Supremes Greatest Hits",
+         "artist":"Diana Ross & The Supremes"
+      },
+      {
+         "title":"Dookie",
+         "artist":"Green Day"
+      },
+      {
+         "title":"Disraeli Gears",
+         "artist":"Cream"
+      },
+      {
+         "title":"Nellyville",
+         "artist":"Nelly"
+      },
+      {
+         "title":"Captain Fantastic And The Brown Dirt Cowboy",
+         "artist":"Elton John"
+      },
+      {
+         "title":"You Don't Mess Around With Jim",
+         "artist":"Jim Croce"
+      },
+      {
+         "title":"Harvest",
+         "artist":"Neil Young"
+      },
+      {
+         "title":"In The Wind",
+         "artist":"Peter, Paul & Mary"
+      },
+      {
+         "title":"True Blue",
+         "artist":"Madonna"
+      },
+      {
+         "title":"Songs From The Big Chair",
+         "artist":"Tears For Fears"
+      },
+      {
+         "title":"Weathered",
+         "artist":"Creed"
+      },
+      {
+         "title":"Dark Horse",
+         "artist":"Nickelback"
+      },
+      {
+         "title":"Private Dancer",
+         "artist":"Tina Turner"
+      },
+      {
+         "title":"Bella Donna",
+         "artist":"Stevie Nicks"
+      },
+      {
+         "title":"Houses Of The Holy",
+         "artist":"Led Zeppelin"
+      },
+      {
+         "title":"Up All Night",
+         "artist":"One Direction"
+      },
+      {
+         "title":"Meet The Beatles!",
+         "artist":"The Beatles"
+      },
+      {
+         "title":"Bridge Over Troubled Water",
+         "artist":"Simon & Garfunkel"
+      },
+      {
+         "title":"Pure Heroine",
+         "artist":"Lorde"
+      },
+      {
+         "title":"First Take",
+         "artist":"Roberta Flack"
+      },
+      {
+         "title":"52nd Street",
+         "artist":"Billy Joel"
+      },
+      {
+         "title":"Scarecrow",
+         "artist":"John Mellencamp"
+      },
+      {
+         "title":"Back Home Again",
+         "artist":"John Denver"
+      },
+      {
+         "title":"Led Zeppelin IV",
+         "artist":"Led Zeppelin"
+      },
+      {
+         "title":"Cosmo's Factory",
+         "artist":"Creedence Clearwater Revival"
+      },
+      {
+         "title":"Romeo + Juliet",
+         "artist":"Soundtrack"
+      },
+      {
+         "title":"Yourself Or Someone Like You",
+         "artist":"matchbox 20"
+      },
+      {
+         "title":"In Through The Out Door",
+         "artist":"Led Zeppelin"
+      },
+      {
+         "title":"Christina Aguilera",
+         "artist":"Christina Aguilera"
+      },
+      {
+         "title":"The 20/20 Experience",
+         "artist":"Justin Timberlake"
+      }
+   ]
+}

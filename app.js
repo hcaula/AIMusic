@@ -11,6 +11,29 @@ var users = require('./app/routes/users');
 
 var app = express();
 
+// var MongoClient = require('mongodb').MongoClient
+//   , assert = require('assert');
+//
+// // Connection URL
+// var url = 'mongodb://127.0.0.1:27017/AIMusic';
+//
+// // Use connect method to connect to the server
+// MongoClient.connect(url, function(err, db) {
+//   assert.equal(null, err);
+//   console.log("Connected successfully to server");
+//
+//   db.close();
+// });
+
+var mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/AIMusic');
+
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'connection error:'));
+db.once('open', function() {
+  console.log('Connected to mongoose!');
+});
+
 // view engine setup
 app.set('views', path.join(__dirname, 'app/views'));
 app.set('view engine', 'ejs');
