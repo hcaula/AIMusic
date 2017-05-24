@@ -7,6 +7,10 @@ module.exports = function(app){
 
   controller.hi = function(req, res){
     console.log('hi');
+    var ret = {
+      title: 'Express'
+    };
+    res.render("index", ret);
   };
 
   return controller;
